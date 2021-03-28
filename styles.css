@@ -1,16 +1,3 @@
-html {
-  box-sizing: border-box;
-}
-* {
-  box-sizing: inherit;
-}
-
-body {
-    background-color: #a4c5c6;
-    margin: 0 10%;
-    font-family: sans-serif;
-    }
-
 /* nav styles */
 nav, footer {
   font-family: verdana, sans-serif;
@@ -30,16 +17,3 @@ nav ul li {
   text-transform: uppercase;
   letter-spacing: .2em;
 }
-  h1 {
-    color: #343f56;
-    text-align: center;
-    font-family: Georgia, serif;
-    font-weight: normal;
-    border-bottom: 5px dotted #ff7e67;
-    margin-top: 30px;
-    }
-  h2 {
-    color: #dd6b4d;
-    text-align: center;
-    font-size: 1.5em;
-    }
