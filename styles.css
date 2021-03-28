@@ -17,28 +17,22 @@ body {
     font-size: 1.5em;
     }
 
-nav {
-    border-bottom: 1px solid black;
-}
 
-.topnav {
-    overflow: hidden;
-  background color: #333;
-  width: 500;
+nav, footer {
+  font-family: verdana, sans-serif;
+  background-color: #783F27;
 }
-
-.topnav a {
-  Float: center;
-  color: blue;
-  text align: center;
-  padding: 10px 15px;
-  text decoration:none;
-  font-size: 20px;
+nav ul li a:link, nav ul li a:visited {
+  color: #F9AB33;
 }
-.topnav a:hover {
-  background-color: yellow;
-  color: black;
+nav ul li a:focus, nav ul li a:hover, nav ul li a:active {
+  color: #fff;
 }
-.topnav a.active {
-    background-color: brown;
-  color: white;
+nav ul {
+  margin: 0;
+}
+nav ul li {
+   font-size: .8em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
