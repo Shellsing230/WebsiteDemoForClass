@@ -1,3 +1,22 @@
+body {
+    background-color: #a4c5c6;
+    margin: 0 10%;
+    font-family: sans-serif;
+    }
+  h1 {
+    color: #343f56;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    border-bottom: 5px dotted #ff7e67;
+    margin-top: 30px;
+    }
+  h2 {
+    color: #dd6b4d;
+    text-align: center;
+    font-size: 1.5em;
+    }
+
 nav {
     border-bottom: 1px solid black;
 }
