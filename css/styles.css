@@ -30,6 +30,7 @@ a:hover:not(.active) {
     font-family: sans-serif;
     margin: 0 15% 0;
     background-image: url(images/paw.png);
+    padding: 5px 5px 5px 5px;
     }
   h1 {
     color: #343f56;
